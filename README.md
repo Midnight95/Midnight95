@@ -30,18 +30,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Midnight95&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/Midnight95?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Midnight95/awesome-repo?style=social)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&hide=javascript,html)
-
-
-
-
-
 -------
-### Joke of the day
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Quote of the day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
