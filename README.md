@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 [![Gmail](https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanator666@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-mishaviborniy-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>
+[![Telegram](https://img.shields.io/badge/Telegram-%40XVIII__TheMoon-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XVIII_TheMoon)
  
 - 🛠 I'm admin, future backend dev
 - 🐍 In love with Linux, Python and Docker
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Midnight95 alt=Midnight95 /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=Midnight95&color=brightgreen)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?usernameMidnight95&show_icons=true&include_all_commits=true)](https://github.com/Midnight95/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&layout=compact)](https://github.com/Midnight95/github-readme-stats)
+
