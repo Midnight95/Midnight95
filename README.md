@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats
 ![Profile views](https://komarev.com/ghpvc/?username=Midnight95&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/Midnight95?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Midnight95/awesome-repo?style=social)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&hide=javascript,html)
 
