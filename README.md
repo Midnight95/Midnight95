@@ -14,7 +14,15 @@
 - 🇷🇺 Russia
 ----
 ## My skill set
-![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=black)
+###  OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+
+
 ![HTTP](https://img.shields.io/badge/-HTTP-blue?style=for-the-badge&logo=http&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
