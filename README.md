@@ -46,7 +46,7 @@ Hope to add more in the future! 😄
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Midnight95&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&theme=blue-green)
 -------
 ### Quote of the day
 
