@@ -9,7 +9,6 @@
 - 🐍 In love with Linux, Python and Docker
 - 🔭 I’m currently working on page analyzer project
 - 🌱 I’m currently learning Flask... It's now going very well 😅
-- 👯 I’m looking to collaborate on basically anything!
 - 🇷🇺 Russia
 ----
 ## My skill set
