@@ -8,7 +8,7 @@
 - 🛡️ Used to work as a customs expert
 - 🐍 In love with Linux, Python and Docker
 - 🔭 I’m currently working on page analyzer project
-- 🌱 I’m currently learning Flask... It's now going very well 😅
+- 🌱 Currently learning CI/CD
 - 🇷🇺 Russia
 ----
 ## My skill set
