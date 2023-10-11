@@ -14,6 +14,9 @@
 - 🐍 In love with Linux, Python and Automation
 - 🌱 Currently learning Django
 - 🇷🇺 Located in Russia
+
+You can check my web projects [here](http://page-analyzer.granovskydev.ru/)
+
 ----
 ### My skill set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
