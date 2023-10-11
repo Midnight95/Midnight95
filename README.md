@@ -3,6 +3,8 @@
 [![Telegram](https://img.shields.io/badge/-telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/XVIII_TheMoon)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivanator666@gmail.com)
 [![CV](https://img.shields.io/badge/CV-View%20Resume-blue.svg)](https://cv.hexlet.io/ru/resumes/2819)
+[![Hexlet](https://img.shields.io/badge/Hexlet-profile-blue)](https://ru.hexlet.io/u/dudya_1945)
+
  ------
  
  Hi! My name is Ivan Granovsky, I am a system administrator. 
@@ -15,7 +17,7 @@
 - 🌱 Currently learning Django
 - 🇷🇺 Located in Russia
 
-You can check my web projects [here](http://page-analyzer.granovskydev.ru/)
+You can find my one and only (for now) web project [here](http://page-analyzer.granovskydev.ru/)
 
 ----
 ### My skill set
