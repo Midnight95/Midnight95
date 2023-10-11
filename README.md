@@ -15,7 +15,7 @@
 - 🌱 Currently learning Django
 - 🇷🇺 Located in Russia
 ----
-## My skill set
+### My skill set
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Shell-scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -32,7 +32,7 @@
 
 Hope to add more in the future! 😄
 
-## Some of my Github Stats
+### Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Midnight95&theme=blue-green)
 -------
 
