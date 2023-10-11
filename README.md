@@ -5,13 +5,13 @@
 [![CV](https://img.shields.io/badge/CV-View%20Resume-blue.svg)](https://cv.hexlet.io/ru/resumes/2819)
  ------
  
- Hi! My name is Ivan Granovsky, I am system administrator. 
- Currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backend developer.
+ Hi! My name is Ivan Granovsky, I am a system administrator. 
+ I am currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backend developer.
 
-- 🛠 I'm an admin and python backend dev
+- 🛠 I'm an admin and Python backend dev
 - 🧑‍🎓 Graduated as a Master of Biology
 - 🛡️ Used to work as a customs expert
-- 🐍 In love with Linux, Python and Automation
+- 🐍 In love with Linux, Python, and Automation
 - 🌱 Currently learning Django
 - 🇷🇺 Located in Russia
 
@@ -33,7 +33,7 @@ You can check my web projects [here](http://page-analyzer.granovskydev.ru/)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-Hope to add more in the future! 😄
+I hope to add more in the future! 😄
 
 ### Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Midnight95&theme=blue-green)
