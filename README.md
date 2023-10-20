@@ -15,7 +15,7 @@
 - 🛡️ Used to work as a customs expert
 - 🐍 In love with Linux, Python, and Automation
 - 🌱 Currently learning Django
-- 🇷🇺 Located in Russia
+- 🇷🇺 Reside in Russia
 
 You can find my one and only (for now) web project [here](http://page-analyzer.granovskydev.ru/)
 
