@@ -37,8 +37,13 @@ You can find my one and only (for now) web project [here](http://page-analyzer.g
 
 I hope to add more in the future! 😄
 
+-------
 ### Github Stats
+
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&langs_count=5&theme=blue-green)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Midnight95&theme=blue-green)
+
 -------
 
 ### My projects
