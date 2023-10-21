@@ -38,14 +38,11 @@ You can find my one and only (for now) web project [here](http://page-analyzer.g
 I hope to add more in the future! 😄
 
 -------
-### Github Stats
+### Stats:
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&langs_count=5&theme=blue-green)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Midnight95&theme=blue-green)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight95&langs_count=5&theme=blue-green&layout=compact)
 
 -------
-
 ### My projects
 <a href="https://github.com/Midnight95/brain-games">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Midnight95&repo=brain-games&title_color=ffffff&text_color=c9cacb&icon_color=2bbc8a&bg_color=1d1f21" />
