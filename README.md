@@ -8,7 +8,7 @@
  ------
  
  Hi! My name is Ivan Granovsky, I am a system administrator. 
- I am currently studying at [Hexlet](https://ru.hexlet.io/) as a Python backend developer.
+ I am currently studying at [Hexlet](https://ru.hexlet.io/) to be a Python backend developer.
 
 - 🛠 I'm an admin and Python backend dev
 - 🧑‍🎓 Graduated as a Master of Biology
