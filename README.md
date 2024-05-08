@@ -17,7 +17,7 @@
 - 🌱 Currently learning Django
 - 🇷🇺 Reside in Russia
 
-You can find my one and only (for now) web project [here](http://page-analyzer.granovskydev.ru/)
+You can find my one and only (for now) web project [here](http://page-analyzer.granovskydev.ru/) (nuked the server, will brb 05.24)
 
 ----
 ### My skill set
