@@ -19,6 +19,8 @@ You can find my one and only (for now) web project [here](http://page-analyzer.g
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+Also have some knowledge in unix operating systems and networks.
+
 
 -------
 ### Stats:
