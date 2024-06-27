@@ -2,7 +2,7 @@
 
 Hi! My name is Ivan Granovsky, I am a Unix SysAdmin and Python Backend Developer with a knack for automation.
 
-You can find my one and only (for now) web project [here](http://page-analyzer.granovskydev.ru/) (nuked the server, will brb 30.05.24)
+You can find my web projects [here](http://granovskydev.ru/) (working on the server, will brb 06.24)
 
 ----
 ## My skill set
